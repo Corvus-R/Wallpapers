@@ -8,7 +8,8 @@ We've now added our custom made wallpaper app which will display any wallpaper t
 > To get started with the contribution, follow these steps:
 1. First and foremost, fork this repo as you will need to give us a pull request with your contribution.
 2. Head over to the [images](https://github.com/Corvus-R/Wallpapers/tree/main/images) folder and drop your file. Make sure to REMEMBER THE FILE NAME.
-3. Next edit the [wallpaper.json](https://github.com/Corvus-R/Wallpapers/blob/main/wallpaper.json) and add th required info at the bottom.
+3. Next edit the [community.json](https://github.com/Corvus-R/Wallpapers/blob/main/community.json) and add the required info at the bottom.
+
 Example:  
 `{
     "id": 55,  
